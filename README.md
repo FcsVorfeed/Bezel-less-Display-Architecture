@@ -1,12 +1,12 @@
 # 单体无边框显示系统技术白皮书 / Bezel-less Visual Elimination Solution for Standalone Display Devices
 
-**核心构思与作者 / Core Concept & Author:** 
+**核心构思与作者 / Core Concept & Author:**   
 张烁 / Shuo Zhang
 
-**联合署名与所属机构 / Co-authored & Affiliated Institution:** 
+**联合署名与所属机构 / Co-authored & Affiliated Institution:**   
 上海魔法少女网络科技有限公司 / Shanghai Magical Battle Syou Jyo Network Technology Co., Ltd.
 
-**发布日期 / Publication Date:** 
+**发布日期 / Publication Date:**   
 2026年5月7日 / May 7, 2026
 
 ---
