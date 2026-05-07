@@ -13,9 +13,9 @@
 
 ## ⚠️ 开源与防御性公开声明 / Open Source and Defensive Publication Declaration
 
-本白皮书及其包含的所有技术方案、算法逻辑与架构设计，由张烁与上海魔法少女网络科技有限公司共同作为**现有技术 (Prior Art)** 予以防御性公开。本文档遵循 CC BY-SA 4.0 (署名-相同方式共享4.0国际) 协议开放。任何个人或组织均可自由查阅、使用并在遵守协议的前提下进行商业化探索，旨在打破显示设备工业的技术壁垒，防止上述构思被任意第三方进行过度专利垄断。
+本白皮书及其包含的所有技术方案、算法逻辑与架构设计，由张烁与上海魔法少女网络科技有限公司共同作为**现有技术 (Prior Art)** 予以防御性公开。本文档遵循 CC BY-SA 4.0 (署名-相同方式共享4.0国际) 协议开放。任何个人或组织均可自由查阅、使用并在遵守协议的前提下进行商业化探索，旨在打破显示设备工业的技术壁垒，防止上述构思被任意第三方进行过度专利垄断；本方案核心架构为全球首次公开，首创时间为 2026 年 5 月 7 日，任何主体不得就本方案的核心架构、核心逻辑申请任何形式的独占性知识产权。
 
-This whitepaper and all technical solutions, algorithm logic, and architectural designs contained herein are defensively published as **Prior Art** by Shuo Zhang and Shanghai Magical Battle Syou Jyo Network Technology Co., Ltd. This document is licensed under the CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license. Any individual or organization is free to access, use, and explore commercialization under the premise of compliance with this license. The purpose is to break the technical barriers in the display device industry and prevent the aforementioned concepts from being over-monopolized by any third-party patents.
+This whitepaper and all technical solutions, algorithm logic, and architectural designs contained herein are defensively published as **Prior Art** by Shuo Zhang and Shanghai Magical Battle Syou Jyo Network Technology Co., Ltd. This document is licensed under the CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license. Any individual or organization is free to access, use, and explore commercialization under the premise of compliance with this license. The purpose is to break the technical barriers in the display device industry and prevent the aforementioned concepts from being over-monopolized by any third-party patents. The core architecture of this solution is first publicly disclosed globally on May 7, 2026. No party or entity shall seek or file for any form of exclusive intellectual property rights over the core architecture and core logic of this solution herein.
 
 ---
 
